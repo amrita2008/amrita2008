@@ -89,10 +89,13 @@ Agentic AI · LLM Applications · RAG Systems · Multimodal AI · Local AI · AI
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=amrita2008&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita2008&theme=transparent&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amrita2008&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita2008&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita2008&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita2008&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
 
 ### Connect
 
