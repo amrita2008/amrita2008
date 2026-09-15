@@ -12,31 +12,40 @@
 
 </div>
 
-Building AI systems, intelligent automation, and full-stack products with a focus on practical engineering.
+Building AI systems, intelligent automation, and production-oriented ML applications with a focus on practical engineering.
 
-## Area of Expertise
+<div align="center">
 
-AI Engineering · Agentic Systems · Full-Stack Development · RAG · LLM Applications · Backend Systems · Computer Vision · Automation
+### Currently Building
 
-## Technical Stack
+Agentic AI · LLM Applications · RAG Systems · Multimodal AI · Local AI · AI Automation · Intelligent Agents
+
+### Technical Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# Projects
+</div>
+
+## Projects
 
 | Project | Under the Hood | Project Structure | Stack |
 |---|---|---|---|
@@ -46,9 +55,14 @@ AI Engineering · Agentic Systems · Full-Stack Development · RAG · LLM Applic
 | **[PayTrace](https://github.com/amrita2008/paytrace)** | AI-assisted payment reconciliation and exception investigation platform. Deterministic reconciliation remains the financial source of truth while AI investigates mismatches, evidence, unresolved questions and recommended actions. [Live Demo](https://paytrace-jufchfg54-amrita24.vercel.app/) | `React → FastAPI → Reconciliation Engine → AI Investigation → Ollama` | Python · FastAPI · Pydantic · React · TypeScript · Ollama · Vite |
 | **[Zuno](https://github.com/amrita2008/Zuno)** | AI-powered music intelligence platform combining song recognition, Spotify metadata, semantic recommendation, multilingual lyric translation and listening intelligence. | `Streamlit → Recognition → Spotify → Embeddings → Intelligence` | Python · Streamlit · ShazamIO · Spotify · Sentence Transformers |
 
-# Experience
+<div align="center">
+
+### Experience
+
+</div>
 
 ### SDE Intern — BlueStock
+
 **March 2026 – April 2026**
 
 - Worked on software development and implementation of product features.
@@ -56,6 +70,7 @@ AI Engineering · Agentic Systems · Full-Stack Development · RAG · LLM Applic
 - Collaborated on building and improving production-oriented software components.
 
 ### Data Analytics Head — E-Cell
+
 **January 2026 – Present**
 
 - Lead data analytics initiatives and data-driven decision making.
@@ -63,34 +78,32 @@ AI Engineering · Agentic Systems · Full-Stack Development · RAG · LLM Applic
 - Coordinate analytics workflows and contribute to technology-driven initiatives.
 
 ### Robotics Team — SPARK
+
 **October 2025 – Present**
 
 - Work as part of the robotics team on engineering and technical projects.
 - Contribute to hardware-software integration, problem solving and implementation.
 - Explore robotics systems, automation and practical engineering applications.
 
-# GitHub
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrita2008&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita2008&theme=transparent&hide_border=true" height="165"/>
-</p>
+### GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita2008&theme=github-compact&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=amrita2008&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita2008&theme=transparent&hide_border=true" height="165"/>
 
-## Currently Building
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita2008&theme=github-compact&hide_border=true" />
 
-Exploring scalable AI systems, agent orchestration, local inference, intelligent developer tools and production-grade AI applications.
-
-## Connect
+### Connect
 
 **Email:** amritavaish16@gamil.com
 
----
+[GitHub](https://github.com/amrita2008) ·
+[LinkedIn](https://www.linkedin.com/in/amrita-vaish-1b1a11323/) ·
+[LeetCode](https://leetcode.com/u/amrita_vaish/) ·
+[CodeChef](https://www.codechef.com/users/amrita_vaish/)
 
-<div align="center">
+---
 
 ### Circuits. Code. Music.
 
