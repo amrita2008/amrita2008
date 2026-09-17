@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi,I am Amrita👋
+# Hi,I'm Amrita👋
 
 ### Software Engineer
 
