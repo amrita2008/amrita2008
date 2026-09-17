@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amrita Vaish 👋
+# Hi,I am Amrita👋
 
 ### Software Engineer
 
